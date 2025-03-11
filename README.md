@@ -1,3 +1,7 @@
 # Layout_contabil
 desenho do layout - projeto contabil
-https://github.com/olivierdenilson/Layout_contabil/blob/main/capa.png
+
+
+
+![Screenshot](https://raw.githubusercontent.com/olivierdenilson/Layout_contabil/main/capa.png)
+
